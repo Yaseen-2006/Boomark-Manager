@@ -28,3 +28,6 @@ I'm currently learning the upcoming concepts in MERN stack and Working on anothe
 I've also learned how Asynchronous JavaScript works and have started applying it through practice projects. 
 
 I'm excited to move towards Backend Deveopment, understand the concepts more deeply, and start implementing them practically in my projects. 💻
+
+I've also deployed this project using GitHub Pages. Anyone can try it directly in their browser:
+http://yaseen-2006.github.io/Boomark-Manager/
