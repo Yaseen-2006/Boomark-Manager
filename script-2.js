@@ -37,7 +37,7 @@ saved.forEach(data => {
 });
 
 
-//  ------------ Make Remove button Functional : 
+//  --- Make Remove button Functional : 
 
 Bookmarks.addEventListener('click', function(event) {
     if (event.target.classList.contains('rm-btn')) {
